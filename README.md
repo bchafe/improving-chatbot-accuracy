@@ -124,7 +124,7 @@ This project highlights the importance of combining LLMs with external tools to 
 
 ## How to Run
 ### Google Colab (Recommended)
-1. [Open this notebook](https://colab.research.google.com/drive/18728gyZcs7p4vDUWDDNaZSOrQjpkMd8j?usp=sharing) in Google Colab
+1. [Open this notebook](https://colab.research.google.com/drive/1IRQYbE_vtyTbgncwfrw1U7g43VQrpIMh?usp=sharing) in Google Colab
 2. Run each code cell in order, or click 'Run All' to automatically run all cells
 
 **PLEASE NOTE:** Running all cells in this notebook may take **up to an hour** to complete. If you plan on running this notebook in Colab, I highly recommend you switch to a T4 GPU runtime. You can do so by clicking `Runtime` -> `Change runtime type` in the menu bar at the top of the page.
