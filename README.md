@@ -1,6 +1,7 @@
 
 # Improving AI Chatbot Response Accuracy with LangChain Tooling
 
+## Overview
 This project explores the performance of Large Language Models (LLMs) and their capabilities in solving complex problems. The goal of this project was to demonstrate how tool integration can improve the accuracy and reliability of AI chatbot responses.
 
 ---
@@ -121,5 +122,14 @@ Traditional LLMs:
 ## Key Takeaways
 This project highlights the importance of combining LLMs with external tools to build more reliable AI chatbots. It demonstrates how orchestration frameworks like LangChain can bridge the gap between ease of use and accurate solutions to complex problems.
 
+## How to Run
+### Google Colab (Recommended)
+1. [Open this notebook](https://colab.research.google.com/drive/18728gyZcs7p4vDUWDDNaZSOrQjpkMd8j?usp=sharing) in Google Colab
+2. Run each code cell in order, or click 'Run All' to automatically run all cells
+
+**PLEASE NOTE:** Running all cells in this notebook may take **up to an hour** to complete. If you plan on running this notebook in Colab, I highly recommend you switch to a T4 GPU runtime. You can do so by clicking `Runtime` -> `Change runtime type` in the menu bar at the top of the page.
+
+### Running the notebook locally
+Running this notebook locally is not currently supported, but I can't stop you from trying. You'll probably have the best results on a Debian based Linux distro. You might need to install Ollama manually. You'll also need curl installed on your system, or you could modify the `start_ollama_server()` function to omit the curl call.
 
 
