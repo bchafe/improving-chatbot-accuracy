@@ -104,8 +104,8 @@ Traditional LLMs:
 
 
 ### Summary of Results
-- Tool-augmented LLM consistently produced **more accurate and reliable responses**
-- Significant improvement in response time and token usage for complex problems
+- Tool-augmented LLM produced **5x higher accuracy** than standalone chain-of-thought reasoning across both experiments
+- Significant improvement in response time and token usage across both experiments for successful trials
 - Reduced hallucinations compared to standalone LLM responses
 
 
